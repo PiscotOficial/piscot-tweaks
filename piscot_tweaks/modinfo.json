@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "piscot_tweaks",
+    "name": "Piscot's Tweaks",
+    "authors": [ "Piscot"],
+    "description": "A few small changes I like to play with.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

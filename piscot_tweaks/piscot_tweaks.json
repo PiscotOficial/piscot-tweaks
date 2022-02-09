@@ -1,0 +1,37 @@
+[
+    {
+        "type": "MONSTER",
+        "id": "mon_aphid",
+        "copy-from": "mon_aphid",
+        "biosignature": {"biosig_timer": 1 }
+    },
+
+    {
+        "type": "MONSTER",
+        "id": "mon_aphid_small",
+        "copy-from": "mon_aphid_small",
+        "biosignature": {"biosig_timer": 2 }
+    },
+
+    {
+        "type": "TOOL",
+        "id": "toolset",
+        "name": { "str": "integrated multitool" },
+        "copy-from": "toolset",
+        "qualities": [
+          [ "HAMMER", 3 ],
+          [ "HAMMER_FINE", 1 ],
+          [ "SAW_W", 1 ],
+          [ "SAW_M", 1 ],
+          [ "SAW_M_FINE", 1 ],
+          [ "WRENCH", 1 ],
+          [ "WRENCH_FINE", 1 ],
+          [ "SCREW", 1 ],
+          [ "SCREW_FINE", 1 ],
+          [ "CUT", 2 ],
+          [ "PRY", 1 ],
+          [ "PRYING_NAIL", 1 ],
+          [ "BUTCHER", -55 ]
+        ]
+    }
+]
